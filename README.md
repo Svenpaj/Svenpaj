@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Svenpaj
 - 👀 I’m interested in ... Python, Java, Database, Testing, DevOp, infrastructure, Agile System Development, HTML, CSS, JavaScript, WebDevelopment
-- 🌱 I’m currently learning ... Agile Sys/Dev
+- 🌱 I’m currently learning ... Testing and CI/CD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
