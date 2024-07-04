@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Svenpaj
 - 👀 I’m interested in ... Python, Java, Database, Testing, DevOp, infrastructure, Agile System Development, HTML, CSS, JavaScript, WebDevelopment, GOlang, CI/CD deployment, Docker & Kubernetes cluster micro-services
-- 🌱 I’m currently learning ... Azure Solution Architect Cert and Certified Kubernetes Administrator
+- 🌱 I’m currently learning ... Certified Azure Developer Associate & Certified Kubernetes Administrator
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
