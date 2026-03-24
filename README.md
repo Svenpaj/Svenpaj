@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Svenpaj
-- 👀 I’m interested in ... Python, Java, Database, Testing, DevOp, infrastructure, Agile System Development, HTML, CSS, JavaScript, WebDevelopment, GOlang, CI/CD deployment, Docker & Kubernetes cluster micro-services
+- 👀 I’m interested in ... Database, Testing, DevOp, infrastructure, Agile System Development, WebDevelopment, GOlang, Odin, CI/CD deployment, Docker & Kubernetes cluster micro-services
 - 🌱 I’m currently learning ... Certified Azure Developer Associate & Certified Kubernetes Administrator
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Svenpaj/Svenpaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
