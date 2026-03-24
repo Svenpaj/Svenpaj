@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Svenpaj
+- 👋 Hi, I’m @Svenpaj - Software developer and DevOps Engineer. Used to work as a software development educator
 - 👀 I’m interested in ... Database, Testing, DevOp, infrastructure, Agile System Development, WebDevelopment, GOlang, Odin, CI/CD deployment, Docker & Kubernetes cluster micro-services
 - 🌱 I’m currently learning ... Certified Azure Developer Associate & Certified Kubernetes Administrator
 
